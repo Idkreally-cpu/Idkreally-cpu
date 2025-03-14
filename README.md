@@ -10,6 +10,11 @@
 
 [Readme](https://github.com/Idkreally-cpu/Idkreally-cpu/tree/main) - Пример использования.
 
+
+![Картинка](https://avatars.mds.yandex.net/i?id=9c61ab0489175635a9f9da0d42984d15_l-4145971-images-thumbs&n=13)
+
+
+
 Требования: Работающий компьютер.
 
 Вклад: **Не надо вносить**
