@@ -6,7 +6,7 @@
 - тут тоже как использовать
 - ну и вот оно работает
 
-file:///C:/Users/мк/Downloads/Markdown.pdf - Пример использования.
+[Readme](https://github.com/Idkreally-cpu/Idkreally-cpu/tree/main) - Пример использования.
 
 Требования: Работающий компьютер.
 Вклад: **Не надо вносить**
